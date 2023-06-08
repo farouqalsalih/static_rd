@@ -1,4 +1,4 @@
-use v3pluss::loop_tree::*;
+use v3pluss::loop_tree::LoopTNode;
 use v3pluss::arybase::set_arybase;
 use lru_stack::LRUStack;
 use hist::Hist;
